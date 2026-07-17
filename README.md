@@ -6,7 +6,7 @@ Before Laravel, I spent nearly a decade in financial services building cloud-nat
 
 I changed my major from Finance to Information Systems because a few Excel formulas made me think software engineering would be easy. I was wrong about that — but I kept going.
 
-I live with ADHD, I've visited 34 national parks, and I'm a better starter than I am a finisher. I write about all of it at [dgarbs51.com](https://dgarbs51.com).
+I live with ADHD, I've visited 40 national parks, and I'm a better starter than I am a finisher. I write about all of it at [dgarbs51.com](https://dgarbs51.com).
 
 ## Find me
 
